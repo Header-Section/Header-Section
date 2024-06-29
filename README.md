@@ -175,3 +175,5 @@ header nav ul li a {
 ```
 header အတွင်းရှိ nav ul li a tag ထဲမှာ margin ကို အပေါ်,အောက် '၀' ဘယ်ညာကို 30px အကွာအဝေးထားပြီး font-weight ကို lighter (ဖျော့ဖျော့) အဖြစ်သတ်မှတ်ထားပါတယ်။ font-size ကို 22px အဖြစ် သုံးထားပါတယ်။ 
 
+![alt text](<Screenshot from 2024-06-29 14-52-57.png>)
+
